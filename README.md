@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/49137662-f7738680-f2a1-11e8-9521-445f955647bf.png">
   <br />
-  Drone
+  Drone CLI
 </h1>
 
-<p align="center"><b>This is the snap for Drone, a Continuous Delivery platform built on Docker. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for Drone CLI, Command line client for the Drone continuous integration server. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -21,7 +21,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install drone
+    sudo snap install drone-cli
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
